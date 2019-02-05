@@ -1,30 +1,24 @@
-# This is a large heading
+# Julian Jose
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Ponta Grossa, in the state of Paraná, in Brazil.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Actually, I'm reading the book:
+"The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World", by Pedro Domingos
 
-Here is `some code` in the middle of a sentence.
+### Food 
 
-```
-This is
-a block
-of code
-```
+My favorite foods are:
+- Pizza
+- Strogonoff
+- Cheese Bread
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-(![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg))
+### Contact 
 
+The best way to contact me is thought at e-mail:
+julianjosedebrito@hotmail.com
 
