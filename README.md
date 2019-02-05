@@ -13,7 +13,7 @@ Actually, I'm reading the book:
 
 My favorite foods are:
 - Pizza
-- Stroggonnof
+- Strogonoff
 - Cheese Bread
 
 
